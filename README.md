@@ -37,13 +37,11 @@ This fast-paced project helped sharpen my skills in full-stack development, API 
 - Staff and Doctor Management
 - Appointment Scheduling
 - Prescription & Lab Test Tracking
-- Stock and Inventory Control
 
 ---
 
 ## 📸 Screenshots
 
-You can add screenshots in this section by uploading images to the `assets` folder (or use URLs if hosted elsewhere):
 
 ### 📋 Patient List Page
 ![Patient List](./screenshots/list.png)
@@ -54,13 +52,12 @@ You can add screenshots in this section by uploading images to the `assets` fold
 ### 🗑️ Delete Confirmation
 ![Delete Patient](./screenshots/del.png)
 
-> Replace the image paths (`./assets/...`) with the correct path or external image links.
 
 ---
 
 ## 🤝 Team Collaboration
 
-This was a team effort with each member contributing specific modules such as authentication, consultation, stock, lab, and prescription handling.
+This was a team effort with each member contributing specific modules such as authentication, consultation,  lab, and prescription handling.
 
 ---
 
@@ -74,4 +71,4 @@ This was a team effort with each member contributing specific modules such as au
 
 ## 📫 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-link/) or reach out if you’d like to know more about my role in this project.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jissjames/) or reach out if you’d like to know more about my role in this project.
